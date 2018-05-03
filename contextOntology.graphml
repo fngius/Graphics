@@ -836,9 +836,9 @@ Resource<y:LabelModel>
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="41.57102196577587" ty="-26.0234375">
-            <y:Point x="235.33333333333334" y="30.25"/>
-            <y:Point x="235.33333333333334" y="30.25"/>
+          <y:Path sx="-24.83436522067325" sy="7.367920420488659" tx="41.57102196577587" ty="-26.0234375">
+            <y:Point x="235.33333333333334" y="37.61792042048866"/>
+            <y:Point x="235.33333333333334" y="38.851600000000005"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="white_delta"/>
